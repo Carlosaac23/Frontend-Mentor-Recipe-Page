@@ -63,7 +63,8 @@ body {
   border-radius: 10px;
 }
 
-.recipe__preparation h3 {
+.recipe__preparation h2 {
+  font-size: 1.1rem;
   color: var(--rose800);
   margin-left: 20px;
 }
